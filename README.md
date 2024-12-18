@@ -319,66 +319,109 @@ By combining technology, legal frameworks, and economic disincentives, spam can 
 
 ---
 
-### **4. Challenges with New Technology**
-- **Issues for IP Owners**:
-  1. High-quality copying.
-  2. Rapid distribution.
-  3. Lower costs of duplication.
-- **Historical Evolution**:
-  - Example: Printing press led to the concept of copyright (Statute of Anne, 1710).
 
----
+### **4. Challenges with New Technology**
+
+-   **Issues for IP Owners**:
+    
+    1.  **High-Quality Copying**: Advanced technology allows for exact replicas of digital content, making piracy nearly indistinguishable from the original.
+        -   **Example**: A pirated song downloaded online has the same quality as the original studio version.
+    2.  **Rapid Distribution**: The internet enables files to be shared globally within seconds.
+        -   **Example**: A leaked movie can reach millions of people overnight through torrent websites.
+    3.  **Lower Costs of Duplication**: Once digital content is created, duplicating it costs almost nothing.
+        -   **Example**: Burning 100 copies of a software CD is inexpensive compared to producing physical books or DVDs.
+-   **Historical Evolution**:
+    
+    -   Before the **printing press**, copying books by hand was time-consuming and expensive, limiting piracy.
+    -   The **Statute of Anne (1710)** introduced the concept of copyright, giving authors exclusive rights to their work and limiting unauthorized reproduction.
+
+----------
 
 ### **5. Music, Movies, Software, and Book Copying**
-- **Music**:
-  - Improved digital technologies facilitate easy sharing (e.g., Napster).
-  - **Canada**:
-    - Legal to make personal copies of music recordings but not to share.
-- **Movies and TV**:
-  - Services like RecordTV.com facilitated unauthorized recording.
-- **Software**:
-  - Piracy includes unauthorized reproduction and distribution.
-  - **US SIIA**: Advocates for stronger protections.
-- **Books**:
-  - Technology enables quick and cheap copying, leading to counterfeit markets.
 
----
+-   **Music**:
+    
+    -   **Digital Technologies**: Platforms like Napster allowed users to share and download songs illegally, bypassing the need to purchase albums.
+        -   **Canada’s Law**: You can legally copy music for personal use but cannot distribute or share it.
+        -   **Example**: Copying a CD you own to your phone is allowed; sharing it with a friend is not.
+-   **Movies and TV**:
+    
+    -   Unauthorized recording and sharing of movies became common with platforms like RecordTV.com.
+        -   **Example**: Recording live TV shows and uploading them to file-sharing sites without the broadcaster’s permission.
+-   **Software**:
+    
+    -   **Piracy**: Unauthorized downloading, sharing, or selling of software.
+        -   **Example**: Downloading a cracked version of Photoshop instead of purchasing it legally.
+    -   The **Software Information Industry Association (SIIA)** campaigns against piracy and promotes stronger laws to protect developers.
+-   **Books**:
+    
+    -   Technology enables easy copying of physical and e-books, leading to counterfeit sales.
+        -   **Example**: Scanning a textbook and distributing it as a PDF file without compensating the author or publisher.
+
+----------
 
 ### **6. Free Software and Open Source**
-- **Free Software**:
-  - Advocated by Richard Stallman (e.g., GNU project, Linux).
-  - **GNU General Public License (GPL)**:
-    - Any derived work must also be released as free software.
-- **Open Source**:
-  - Pros: Transparency, community-driven improvements.
-  - Cons: Less profitability for commercial entities.
 
----
+-   **Free Software**:
+    
+    -   Advocated by **Richard Stallman**, free software emphasizes the freedom to use, modify, and distribute programs.
+    -   **GNU General Public License (GPL)**:
+        -   Any work derived from GPL-licensed software must also be free and share its source code.
+        -   **Example**: Linux, an open-source operating system, can be modified and redistributed, as long as the modifications are also open-source.
+-   **Open Source**:
+    
+    -   **Pros**:
+        -   Transparency: Developers can inspect and improve the code.
+        -   Community Contributions: Faster bug fixes and innovation.
+        -   **Example**: Apache Web Server, widely used for hosting websites, is open source.
+    -   **Cons**:
+        -   Less Profitability: Difficult for companies to monetize open-source software.
+        -   **Example**: A company may struggle to compete if others freely use and modify their software.
+
+----------
 
 ### **7. Digital Rights Management (DRM)**
-- **Purpose**:
-  - Prevent unauthorized copying and sharing of digital content.
-- **Example**:
-  - Encryption to limit the number of copies or restrict access.
 
----
+-   **Purpose**:
+    
+    -   DRM restricts how digital content is accessed, copied, or shared, protecting creators from piracy.
+    -   **Examples**:
+        1.  Movies rented on platforms like Amazon Prime can only be watched for a limited time due to DRM.
+        2.  E-books purchased on Kindle are encrypted, preventing users from sharing them with others.
+-   **Criticism**:
+    
+    -   DRM can frustrate legitimate buyers while being bypassed by skilled pirates.
+
+----------
 
 ### **8. Software Patents**
-- Initially unpatentable in the 1970s.
-- Now protected if tied to physical hardware or producing physical change.
-- **Controversies**:
-  - Claim that patents may stifle innovation.
-  - Many argue software should rely on copyright instead.
 
----
+-   **Historical Background**:
+    
+    -   Initially, software was considered an abstract idea and couldn’t be patented.
+    -   In 1981, the **Diamond v. Diehr** case allowed patents for software tied to physical components or processes.
+-   **Current Status**:
+    
+    -   Software can be patented if it produces a physical change or improves hardware functionality.
+        -   **Example**: A patented algorithm controlling robotic arms in factories.
+-   **Controversies**:
+    
+    1.  Patents can discourage innovation by creating legal barriers.
+    2.  Many argue software should rely on copyright protection instead of patents.
+
+----------
 
 ### **9. International Copyright**
-- **Berne Convention (1886)**:
-  - First international copyright agreement.
-  - Protects authors' works across member countries.
-- **US Entry**:
-  - Joined in 1989 after aligning laws with international standards.
 
+-   **Berne Convention (1886)**:
+    
+    -   An international treaty ensuring authors' rights are protected across member countries.
+    -   **Key Principle**: A country must grant the same copyright protection to foreign authors as it does to its citizens.
+    -   **Example**: A US author’s book sold in Canada is automatically protected under Canadian copyright laws.
+-   **US Entry**:
+    
+    -   The US joined the Berne Convention in 1989 after modifying its copyright laws to align with international standards.
+        -   **Example**: The US previously required formal registration for copyright, which was dropped to meet Berne requirements.
 ---
 
 ### **10. Notable Cases**
