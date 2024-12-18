@@ -34,29 +34,36 @@ An anthropologist studies an ancient culture and notices that they believed stea
 
 ---
 
-### **Branches of Normative Ethics**
-1. **Teleological Ethics (Consequentialism)**
-   - Emphasis: Consequences of actions.
-   - Example: Deciding not to steal because it may harm societal trust.
-   - **Utilitarianism**:
-     - Focus: Maximizing happiness for the majority.
-     - Example: "The Trolley Problem" (choosing to divert a train to save more lives).
-     - Principle: Greatest happiness for the greatest number (John Stuart Mill).
+Sure! Let's break down the examples in simpler terms:
 
-2. **Deontological Ethics**
-   - Emphasis: Duty and rules.
-   - Focuses on **actions, not outcomes**.
-   - Example: "Lying is always wrong," based on principles like the Ten Commandments.
-   - Philosophers: Immanuel Kant (emphasis on reason).
-   - Divine Command Theory: Actions are good if commanded by God.
+### 1. **Teleological Ethics (Consequentialism)**
+   - **Emphasis**: The focus is on the **results** of an action.
+   - **Simple Example**: Imagine you decide not to steal a candy bar from a store because you know it could hurt the trust people have in each other, making society less friendly.
+   - **Key Idea**: Your action is based on the good or bad consequences it will bring.
 
-3. **Virtue Ethics**
-   - Emphasis: Character and virtues.
-   - Focuses on **being rather than doing**.
-   - Example: A virtuous person (honest, kind) reflects morality through consistent good actions.
-   - Philosophers: Plato, Aristotle.
-   - Key Virtues: Honesty, integrity, respectfulness.
+   **Utilitarianism (A type of Teleological Ethics)**:
+   - **Focus**: The goal is to make **most people** happy.
+   - **Simple Example**: If a train is headed towards five people, but you can switch it to a track where it will only hit one person, you choose to switch it to save the five.
+   - **Key Idea**: The right action brings the most happiness or good for the most people.
 
+### 2. **Deontological Ethics**
+   - **Emphasis**: Focuses on **following rules** and **doing your duty**, no matter what the results are.
+   - **Simple Example**: You believe that lying is wrong no matter the situation, so you never lie, even if telling the truth might cause some harm (like telling someone a harsh truth).
+   - **Key Idea**: Some actions are always right or wrong, regardless of the consequences.
+
+   **Divine Command Theory (a type of Deontological Ethics)**:
+   - **Focus**: What is right and wrong is determined by **God's commands**.
+   - **Simple Example**: You believe it's wrong to kill because your religion says "Thou shall not kill." It's the rule you follow, regardless of the situation.
+
+### 3. **Virtue Ethics**
+   - **Emphasis**: Focuses on developing good **character traits** (virtues) like honesty, kindness, and fairness.
+   - **Simple Example**: A person who always tells the truth and helps others is considered a good person because of their virtuous character. It’s not about following a rule or focusing only on consequences, but about being a good person.
+   - **Key Idea**: Being virtuous (having good character) leads to moral actions.
+
+In short:
+- **Consequentialism** focuses on **what happens** as a result of your actions.
+- **Deontology** focuses on **following rules** or duties, regardless of the outcome.
+- **Virtue Ethics** focuses on **who you are** as a person and being a morally good person through your actions.
 ---
 
 ### **Comparing Ethical Approaches**
