@@ -5,30 +5,30 @@
 
 Types of Ethics with Easy Examples
 
-1. Normative Ethics
+- Normative Ethics
 
-Definition: Focuses on determining what people should do or what is morally right or wrong. It sets standards for how people ought to behave.
+	- Definition: Focuses on determining what people should do or what is morally right or wrong. It sets standards for how people ought to behave.
 
-Example:
+	- Example:
 Imagine you see someone drop their wallet. Normative ethics would ask, “What should you do in this situation?” The moral standard says you should return the wallet because it’s the right thing to do.
 
 
 
-2. Descriptive Ethics
+- Descriptive Ethics
 
-Definition: Describes how people actually behave and what moral standards they claim to follow. It doesn’t judge whether their behavior is right or wrong, just observes it.
+	- Definition: Describes how people actually behave and what moral standards they claim to follow. It doesn’t judge whether their behavior is right or wrong, just observes it.
 
-Example:
+	- Example:
 An anthropologist studies an ancient culture and notices that they believed stealing food was acceptable during famine. Descriptive ethics simply reports this behavior without deciding if it’s morally right or wrong.
 
 
 
 
-In summary:
+	In summary:
 
-Normative ethics tells us how we should act (e.g., return the wallet).
+	Normative ethics tells us how we should act (e.g., return the wallet).
 
-Descriptive ethics tells us how people actually act or believe (e.g., some might keep the wallet, some might return it).
+	Descriptive ethics tells us how people actually act or believe (e.g., some might keep the wallet, some might return it).
 
 
 
